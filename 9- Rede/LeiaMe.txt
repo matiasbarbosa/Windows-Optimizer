@@ -1,0 +1,6 @@
+
+Recomendo ler a documentação oficial do aplicativo TCP Optimizer e ver qual configuração se configura a você.
+https://www.speedguide.net/articles/network-adapter-optimization-3449
+
+Entretanto, no próprio aplicativo hão as configurações recomendadas! Pode segui-lás
+Lembrando que elas são voltadas para a otimização de Rede e, não segurança. Portanto, toma cuidado ai com essa porra
