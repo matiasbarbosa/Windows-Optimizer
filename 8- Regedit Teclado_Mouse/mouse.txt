@@ -1,0 +1,8 @@
+Pesquise por configurações avançadas de Mouse, e vá a aba "Ponteiro", coloque a velocidade de ponteiro no meio, e desative a opção de precisão aprimorada. Caso queira também, vá a aba de Botões e na opção de clique-duplo deixe-a na mais rápida.
+
+Caso seu mouse tenha software:
+1. Certifique-se de que não há perfis antigos salvos na memória.
+2. Certifique-se, de que está na maior taxa de atualização(Hz).
+
+-- (Opcional) --
+	Desative RGB - A iluminação RGB envolve o controle de LEDs para criar efeitos de cores, e esse processamento adicional pode exigir recursos do MCU do seu mouse, nos dias atuais você não perceberá tanta diferença, mas se preferir desative o RGB do seu mouse ou teclado.

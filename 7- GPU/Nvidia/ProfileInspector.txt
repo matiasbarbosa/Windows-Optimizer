@@ -1,0 +1,8 @@
+
+desabilite gsyng
+desabilite fxaa usage
+prevent anisotrophic on
+force p2 status off
+max frames allowed 1
+alocação de memória moderado
+ansel usage desabilite

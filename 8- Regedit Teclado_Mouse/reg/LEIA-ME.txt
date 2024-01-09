@@ -1,0 +1,16 @@
+
+Clicando em editar o ".reg", você pode ver todas as linhas de comando das edições que serão feitas no Registro do Windows.
+
+*Mas para aqueles que são preguiçosos:
+
+-- "disableDSearching.reg" --
+	Como o nome sugere disable Driver Searching, esse script modifica uma chave no registro para desativar a busca automática de drivers
+
+-- "disablePrefetch.reg" --
+	Desativa o Prefetch. O Prefetch é uma parte do sistema operacional Windows que otimiza o carregamento de aplicativos ao prever quais arquivos serão necessários e pré-carregá-los na memória
+
+-- "disableStartupDelay.reg" --
+	Esse script define o valor de StartupDelayInMSec definido como 0, indica ao Windows que não deve haver atraso na inicialização de aplicativos. Em outras palavras, os aplicativos serão iniciados o mais rápido possível durante o processo de inicialização do Windows
+
+-- "MouseFix.reg" --
+	Em geral, faz correção na precisão do mouse e limiares do mouse, o que ajuda na precisão e suavização dos eixos x,y e z

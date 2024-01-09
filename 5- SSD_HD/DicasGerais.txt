@@ -1,0 +1,9 @@
+
+1. Você também pode liberar espaço em seu disco rígido para ajudar a melhorar o desempenho
+
+2. Obter um ssd maior também pode proporcionar melhor desempenho 
+porque eles têm um cache de DRAM melhor
+
+3. Não desfragmente seu ssd. Na barra de pesquisa, digite desfragmentar e otimizar unidades, depois de abrir, certifique-se de desativar a Otimização programada.
+
+Você só precisa desfragmentar com HD's; fazer isso com ssd's não traz nenhum benefício e pode na verdade prejudicar a vida útil do ssd.

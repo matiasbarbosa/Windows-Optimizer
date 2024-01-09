@@ -1,0 +1,31 @@
+
+Comandos no CMD
+Caso sistema operacional no HD:
+fsutil behavior set disableLastAccess 1
+fsutil behavior set disable8dot3 1 
+
+
+Caso sistema operacional no SSD:
+fsutil behavior set disableLastAccess 0
+fsutil behavior set disable8dot3 1 
+
+
+Obs.:
+
+-- HD --
+	fsutil behavior set disableLastAccess 1:
+		disableLastAccess é configurado como 1, desabilitando a atualização da marca de último acesso nos arquivos 
+		para HD. Isso pode ser útil para reduzir a quantidade de operações de gravação no disco, especialmente em 
+		ambientes onde a marca de último acesso não é necessária
+	
+	fsutil behavior set disable8dot3 1:
+		disable8dot3 é configurado como 1 (ativado), desabilitando a geração de nomes de arquivo curtos para HD. 
+		Em sistemas de arquivos modernos, a notação 8.3(arquivos de nomes curtos) é menos relevante, e desativá-la 
+		pode economizar algum espaço e recursos de armazenamento
+
+
+-- SSD -- 
+	fsutil behavior set disableLastAccess:
+		disableLastAccess é configurado como 0 (desativado), permitindo a atualização da marca de último acesso nos
+		arquivos para SSD
+

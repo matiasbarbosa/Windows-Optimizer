@@ -1,0 +1,9 @@
+Altere as mascáras dos seguintes componentes:
+
+USB xHCI Compliant Host Controller
+USB3.0
+
+Atenção.:
+	Coloque em qualquer CPU menos nas CPUs 0,1,2.
+
+Assim, elas serão usadas somente pelo sistema

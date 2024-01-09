@@ -1,0 +1,18 @@
+
+
+Certifique-se de que você tem a versão mais recente do software da sua placa de vídeo
+Caso não: https://www.amd.com/pt/support
+
+AMD Full Install
+- Tudo que pode oferecer
+
+AMD Minimal Install
+- Sem software de ajuste de desempenho
+- Sem ferramenta de Gravação
+- Sem game center
+- Sem link da AMD
+
+AMD Driver only
+- Só o driver
+
+Recomendo a Instalação Mínima (minha preferência)

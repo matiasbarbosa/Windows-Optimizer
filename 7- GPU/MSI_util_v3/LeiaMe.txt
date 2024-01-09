@@ -1,0 +1,10 @@
+
+Certifique-se de que você tem a versão mais recente do software da sua placa de vídeo.
+
+MSI_util_v3.exe
+	Execute como administrador
+	Coloque prioridade Alta(HIGH) na sua placa de video, controladores SATA e (ou) NVM e, qualquer coisa relacionada a sua Conexão a Internet.
+	Clique em "Apply", no canto superior direito da janela do programa.
+
+Para aqueles que precisam de certificação de que não há vírus no programa:
+www.virustotal.com/gui/file/e1c02df86676d04ed75ba6303b53b61c15adb6aec672ac349c2f06454a594e1e/detection

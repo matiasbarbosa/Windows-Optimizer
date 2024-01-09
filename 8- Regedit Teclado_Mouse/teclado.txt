@@ -1,0 +1,10 @@
+Pesquise "Teclado" nas configurações do seu Windows e coloque a opção de repetir caractere na mais baixa
+
+Caso seu teclado tenha software:
+1. Certifique-se de que não há perfis antigos salvos
+2. Certifique-se, de que está na maior taxa de atualização(Hz).
+
+Desative teclas de filtragem, nas configurações do Windows.
+
+-- (Opcional) --
+	Desative RGB - A iluminação RGB envolve o controle de LEDs para criar efeitos de cores, e esse processamento adicional pode exigir recursos do MCU do seu mouse, nos dias atuais você não perceberá tanta diferença, mas se preferir desative o RGB do seu mouse ou teclado
