@@ -1,0 +1,5 @@
+
+DISM.exe /Online /Cleanup-Image /Scanhealth -- Checa a saúde do seu sistema operacional
+DISM.exe /Online /Cleanup-Image /Restorehealth -- Recupera a saúde do seu sistema operacional
+
+SFC /scannow

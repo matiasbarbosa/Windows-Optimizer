@@ -1,0 +1,39 @@
+Alguns antivirus pika!
+
+- Kaspersky Virus Removal Tool -- https://devbuilds.s.kaspersky-labs.com/devbuilds/KVRT/latest/full/KVRT.exe
+
+- Kaspersky TDSSKiller (descontinuado) -- https://web.archive.org/web/20230606053547/https://media.kaspersky.com/utilities/VirusUtilities/EN/tdsskiller.exe
+
+- Emsisoft Emergency Kit -- https://dl.emsisoft.com/EmsisoftEmergencyKit.exe
+
+- ESET Online Scanner -- https://download.eset.com/com/eset/tools/online_scanner/latest/esetonlinescanner_enu.exe
+
+- Norton Power Eraser -- https://support.norton.com/sp/static/external/NPE/5.3/prod/en/NPE.exe
+
+- Comodo Cleaning Essentials -- 
+64x -- http://download.comodo.com/cce/download/setups/cce_x64.zip
+32x -- https://cdn.download.comodo.com/cce/download/setups/cce_x32.zip
+
+- Avira PC Cleaner (descontinuado)--
+http://install.avira-update.com/package/pccleanerwebloader/win32/en/avira_pc_cleaner_en.exe
+
+- HitmanPro --
+https://files.surfright.nl/HitmanPro_x64.exe
+
+- Zemana AntiMalware --
+https://www.zemana.com/thank-you/download?source=download&ProductID=2&IsFree=False&IsPortable=False&IsBeta=False
+
+- Malwarebytes --
+https://downloads.malwarebytes.com/file/mb4_offline
+
+- AdwCleaner --
+https://toolslib.net/downloads/finish/1-adwcleaner/2323/
+
+- RogueKiller (and then click Portable 64 bits) --
+https://www.adlice.com/download/roguekiller/#download
+
+A maioria é portável, menos o Zemana e o MalwareBytes. Portável significa que não precisa instalar, é só rodar, escanear e se quiser deletar o arquivo
+
+Minha preferência: HitmanPro!
+
+by Matias

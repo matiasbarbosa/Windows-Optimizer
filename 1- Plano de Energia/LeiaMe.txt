@@ -1,0 +1,20 @@
+PASSO-A-PASSO
+Importe as configurações de Plano de Energia:
+
+1. Abra o CMD
+2. Cole esse comando:
+	2.1 - Para GameTurbo:
+		powercfg -import C:\Users\Administrator\Downloads\Optimization\1- Plano de Energia\GameTurbo.pow
+
+	2.2 - Para Dynamic Boost Perfomance
+		powercfg -import C:\Users\Administrator\Downloads\Optimization\1- Plano de Energia\DynamicBoost.pow
+		
+		Obs.: Dynamic Boost Perfomance ajuda a equilibrar o fornecimento de energia para a CPU e a GPU. 
+		Historicamente, a CPU e a GPU têm funcionado de forma independente, beneficiando da sua própria fonte 
+		de alimentação. No entanto, esta conceção tem sido acusada de ser ineficiente em termos de potência de 
+		desempenho, uma vez que há muitos casos - particularmente nos jogos - em que a GPU necessita de muita 
+		energia, enquanto o processador está ociosamente com acesso a um orçamento de energia inexplorado.
+
+3. Para selecionar um dos dois, basta abrir a "Escolher plano de energia" nas configurações do Windows
+
+by Matias
