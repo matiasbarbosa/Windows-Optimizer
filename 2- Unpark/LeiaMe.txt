@@ -1,0 +1,25 @@
+
+Todas as CPU Cores (Núcleos do computador) estão em "parking", estacionadas por assim dizer..
+	Park CPU é um conceito do próprio Windows, que significa o balanceamento de energia para CPU utilizada. Por exemplo, não estaríamos usando todas as CPU's que temos no computador simplesmente ao ligá-lo, porém, o "Unpark" faria com que todos os CPU's recebessem a mesma quantidade de energia que os outros, sendo utilizado ao seu máximo, para uma melhor performance.
+
+**Entretanto, as desvantagens são de imaginar, certo? Utilizando 100% de TODAS as suas CPU's por dias conseguintes, pode acarretar em alguns problemas, como:**
+
+1- Aquecimento no computador inteiro:
+	Ao "Unparkar" os núcleos da CPU pode resultar em aumento de temperatura no computador, comprometendo o desempenho, estabilidade e potencialmente causando danos permanentes aos componentes devido ao aumento na produção de calor. Monitorar e controlar a temperatura é crucial ao realizar essa modificação
+
+2- Menor Eficiência Energética:
+	O uso constante de todos os núcleos pode resultar em uma eficiência energética reduzida, pois o sistema não pode tirar proveito dos estados de economia de energia quando os núcleos estão constantemente 100% ativos
+
+3- Consumo de Energia Elevado:
+	Quando todos os núcleos da CPU "unparkados" o consumo de energia do sistema aumenta. Isso pode resultar em um uso mais intensivo da fonte de alimentação e contribuir para contas de eletricidade mais altas
+
+4- Desgaste do Hardware:
+	O uso prolongado da CPU em sua capacidade máxima pode acelerar e MUITO o desgaste do hardware. Os componentes do processador podem aquecer mais e experimentar uma maior carga de trabalho, o que, ao longo do tempo, pode contribuir para uma redução da vida útil do processador
+
+5- Potencial Instabilidade do Sistema:
+	Em alguns casos, manter todos os núcleos ativos o tempo todo pode levar a uma maior geração de calor, e isso, por sua vez, pode resultar em instabilidade do sistema, crashes ou desligamentos automáticos para proteger o hardware contra danos.
+
+	Portanto, ao decidir "unparkar" os núcleos da CPU, é importante pesar os benefícios de desempenho em relação às potenciais desvantagens em termos de calor, consumo de energia e desgaste do hardware. Em muitos casos, o sistema operacional é capaz de gerenciar eficientemente o uso da CPU, adaptando-se dinamicamente às demandas de processamento, sem a necessidade de intervenção manual.
+
+
+by Matias

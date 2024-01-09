@@ -1,0 +1,6 @@
+
+
+--  SysMain   --  (Opcional)
+	Prefetch do computador, ele pré-carrega dados de aplicativos frequentemente usados na memória RAM para acelerar o tempo de carregamento desses aplicativos. Não é necessário para o funcionamento normal do computador, porém, ao desativá-los verás que haverão pulos de uso de CPU e RAM. Na prática, desativando-o, não deixará que ele pré carregue aplicativos frequentemente usados do seu computador, ele carregará só os próximos aplicativos que irão abrir, ou seja, abrindo somente o jogo, ele pré carregará somente o jogo e serviços estritamente necessários da utilização do sistema.
+
+
